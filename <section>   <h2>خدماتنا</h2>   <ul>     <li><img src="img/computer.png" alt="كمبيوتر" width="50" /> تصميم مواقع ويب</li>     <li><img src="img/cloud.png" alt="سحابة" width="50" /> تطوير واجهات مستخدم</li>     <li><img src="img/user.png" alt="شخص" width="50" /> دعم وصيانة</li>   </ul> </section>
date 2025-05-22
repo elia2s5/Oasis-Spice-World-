@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>موقعي البسيط</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>مرحبا بيك في موقعي</h1>
+    <nav>
+      <ul>
+        <li><a href="#">الرئيسية</a></li>
+        <li><a href="#">من نحن</a></li>
+        <li><a href="#">خدماتنا</a></li>
+        <li><a href="#">اتصل بنا</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>عن الموقع</h2>
+      <p>هذا موقع بسيط وجاهز للرفع، تصميمه نظيف وسهل التعديل.</p>
+    </section>
+    <section>
+      <h2>خدماتنا</h2>
+      <ul>
+        <li><img src="img/computer.png" alt="كمبيوتر" width="50" /> تصميم مواقع ويب</li>
+        <li><img src="img/cloud.png" alt="سحابة" width="50" /> تطوير واجهات مستخدم</li>
+        <li><img src="img/user.png" alt="شخص" width="50" /> دعم وصيانة</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>حقوق النشر &copy; 2025. جميع الحقوق محفوظة.</p>
+  </footer>
+</body>
+</html>
